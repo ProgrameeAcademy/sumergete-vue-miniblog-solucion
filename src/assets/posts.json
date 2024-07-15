@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Introducción a Vue.js: Un Framework Progresivo",
+    "content": "Vue.js es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde cero para ser adoptable de manera incremental. La biblioteca central se enfoca solo en la capa de vista y es fácil de integrar con otras bibliotecas o proyectos existentes. Por otro lado, Vue también es perfectamente capaz de impulsar aplicaciones sofisticadas de una sola página cuando se utiliza en combinación con herramientas modernas y bibliotecas de soporte.",
+    "comments": [
+      {
+        "text": "Muy interesante!"
+      },
+      {
+        "text": "Me encantó la explicación sobre la adopción incremental."
+      }
+    ]
+  },
+  {
+    "title": "Componentes en Vue.js: La Base de la Reusabilidad",
+    "content": "Los componentes son una de las características más poderosas de Vue.js. Un componente encapsula un fragmento de la interfaz de usuario junto con su lógica y estilo, lo que permite su reutilización en diferentes partes de una aplicación. En Vue, cada componente es esencialmente una instancia de Vue con opciones predefinidas. Estos componentes pueden comunicarse entre sí a través de props y eventos, facilitando la creación de aplicaciones modulares y mantenibles.",
+    "comments": [
+      {
+        "text": "Los componentes hacen que el desarrollo sea mucho más fácil."
+      },
+      {
+        "text": "Excelente explicación sobre la comunicación entre componentes."
+      }
+    ]
+  },
+  {
+    "title": "Vue Router: Navegación en Aplicaciones de Una Sola Página",
+    "content": "Vue Router es la solución de enrutamiento oficial para Vue.js. Permite la creación de aplicaciones de una sola página con navegación mediante enlaces, similar a la navegación tradicional entre páginas, pero sin recargar la página completa. Vue Router permite definir rutas en la aplicación y enlazarlas con componentes específicos, gestionando la historia de navegación del navegador y proporcionando transiciones fluidas entre vistas.",
+    "comments": [
+      {
+        "text": "La navegación es muy fluida con Vue Router."
+      },
+      {
+        "text": "Gracias por la explicación sobre las transiciones entre vistas."
+      }
+    ]
+  },
+  {
+    "title": "Vuex: Gestión del Estado en Aplicaciones Vue",
+    "content": "Vuex es una biblioteca de gestión de estado para aplicaciones Vue.js. Proporciona una arquitectura centralizada para gestionar el estado de la aplicación, facilitando el desarrollo y mantenimiento de aplicaciones complejas. Vuex permite definir un almacén centralizado que contiene el estado y las funciones de mutación y acción que permiten modificar dicho estado. Esta estructura facilita la depuración y la predicción del comportamiento de la aplicación.",
+    "comments": [
+      {
+        "text": "Vuex simplifica mucho la gestión del estado."
+      },
+      {
+        "text": "Dicen que Pinia es mejor!!"
+      }
+    ]
+  }
+]
